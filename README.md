@@ -11,7 +11,7 @@ Edição do audio usando Capcut
 ## Resultados
 O resultado ficou bom
 
-## Reflexão
+## Processo de Criação
 Testei alguns prompts diferentes para ter o resultado de conteúdo pretendido
 modifiquei o audio usando recursos mais proximos do tom de voz que queria
 e edição aconteceu do jeito que queria
